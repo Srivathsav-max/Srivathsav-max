@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Srivathsav-max
 - 👀 I’m interested in creating web applications
-- 🌱 I’m currently learning and working on Django, Spring Boot & CSP
-- 💞️ I’m looking to collaborate on building stuffs like network connection
-- 📫 You can reach me through &nbsp;<a href="mailto:ajsrivathsav352002@gmail.com"><img align="center" src="https://img.icons8.com/plasticine/344/gmail.png" alt="mailto:4akhilkumar@gmail.com" height="25" width="25" /></a>&nbsp;&nbsp;<a href="https://t.me/Sriva03"><img align="center" src="https://img.icons8.com/color/344/telegram-app--v1.png" alt="https://t.me/activare" height="25" width="25" /></a>
+- 🌱 I’m currently learning and working on Django, React, Spring Boot & CSP
+- 💞️ I’m looking to work on new technologies and new stuff
+- 📫 You can reach me through &nbsp;<a href="mailto:ajsrivathsav352002@gmail.com"><img align="center" src="https://img.icons8.com/plasticine/344/gmail.png" alt="ajsrivathsav352002@gamil.com" height="25" width="25" /></a>&nbsp;&nbsp;<a href="https://t.me/Sriva03"><img align="center" src="https://img.icons8.com/color/344/telegram-app--v1.png" alt="https://t.me/activare" height="25" width="25" /></a>
 
 [![Srivathsav-max's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srivathsav-max&show_icons=true)](https://github.com/Srivathsav-max)
 
