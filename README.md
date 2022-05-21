@@ -17,7 +17,7 @@ Nice to meet you, I'm Adari Jayaraj Srivathsav aka Srivathsav-max
 
 ## My Weapons 🌟
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tidbitsjs&theme=react)](https://github.com/tidbitsjs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srivathsav-max&theme=react)](https://github.com/Srivathsav-max/github-readme-stats)
 
 <br>
 
@@ -56,11 +56,11 @@ Nice to meet you, I'm Adari Jayaraj Srivathsav aka Srivathsav-max
  
 ## Github Status 🏆
 
-<img  src="https://github-readme-stats.vercel.app/api?username=TidbitsJS&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=TidbitsJS&theme=react" width="48%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=Srivathsav-max&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Srivathsav-max&theme=react" width="48%" >
 <br>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=TidbitsJS&theme=react-dark)
+![github graph](https://activity-graph.herokuapp.com/graph?username=Srivathsav-max&theme=react-dark)
 <br>
 
 <p align="center">Wanna Know me More?</p>
@@ -81,4 +81,4 @@ Nice to meet you, I'm Adari Jayaraj Srivathsav aka Srivathsav-max
 
 </p>
 
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=TidbitsJS.TidbitsJS" alt="TidbitsJS :: Visitor's Count" /></p>
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=Srivathsav-max.Srivathsav-max" alt="Srivathsav-max :: Visitor's Count" /></p>
