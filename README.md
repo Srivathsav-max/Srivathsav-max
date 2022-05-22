@@ -11,7 +11,6 @@ Nice to meet you, I'm Adari Jayaraj Srivathsav aka Srivathsav-max
 - 💌 Fun Facts : 
     - Loves food but can't' cook 🐼 
     - Overthinks thinking to not to overthink 🙂
-    - Hayat nedir, canım? ( Ahh, Learning Turkish out of curiosity ) 🙃
     
 <br>
 
