@@ -60,7 +60,7 @@ Nice to meet you, I'm Adari Jayaraj Srivathsav aka Srivathsav-max
 
 <p align="center">
  
-<!-- <a href="https://twitter.com/TidbitsJS" target="_blank">
+<!-- <a href="https://twitter.com/" target="_blank">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a>  -->
 <!-- 
 <a href="https://www.instagram.com/" target="_blank">
@@ -68,9 +68,6 @@ Nice to meet you, I'm Adari Jayaraj Srivathsav aka Srivathsav-max
 
 <a href="https://www.linkedin.com/in/jayaraj-srivathsav-bb42891a1/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
-    
-<!-- <a href="https://tidbitsjs.medium.com/" target="_blank">
-<img src="https://img.shields.io/badge/-Medium-%2337817f" alt="Medium" /></a>   -->
 
 </p>
 
