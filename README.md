@@ -4,7 +4,7 @@ Nice to meet you, I'm Adari Jayaraj Srivathsav aka Srivathsav-max
 
 ## Who Am I? 🤠
 
-- 🤓 Self taught Developer 
+- 🤓 Developer 
 - 👩‍💻 Working on Web & App Development 
 - 📝 Writing Words, Compiling Code
 - 🎯 Goal : To be a better Developer 
