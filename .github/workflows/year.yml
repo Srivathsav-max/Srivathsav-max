@@ -1,16 +1,15 @@
-- name: Half-year calendar
-  uses: lowlighter/metrics@latest
-  with:
-    filename: metrics.plugin.isocalendar.svg
-    token: ${{ secrets.METRICS_TOKEN }}
-    base: ""
-    plugin_isocalendar: yes
+name: GitHub Activity
 
-- name: Full-year calendar
-  uses: lowlighter/metrics@latest
-  with:
-    filename: metrics.plugin.isocalendar.fullyear.svg
-    token: ${{ secrets.METRICS_TOKEN }}
-    base: ""
-    plugin_isocalendar: yes
-    plugin_isocalendar_duration: full-year
+on:
+  schedule:
+    - cron: '30 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
