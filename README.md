@@ -12,7 +12,7 @@
 
 [<img align="left" width="390" alt="🦑" src="https://github.com/Srivathsav-max/Srivathsav-max/blob/main/achievements.svg">](#)
 
-[<img width="left" width="390" alt="🦑" src="https://github.com/Srivathsav-max/Srivathsav-max/blob/main/metrics.plugin.languages.indepth.svg">](#)
+[<img width="center" width="390" alt="🦑" src="https://github.com/Srivathsav-max/Srivathsav-max/blob/main/metrics.plugin.languages.indepth.svg">](#)
 
 [<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
