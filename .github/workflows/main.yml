@@ -24,7 +24,7 @@ jobs:
           committer_gist: ${{ secrets.GIST }}
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_fortune: yes
+          plugin_fortune: no
 
       - name: 🎶 General
         if: ${{ success() || failure() }}
