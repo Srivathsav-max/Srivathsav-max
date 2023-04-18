@@ -12,4 +12,4 @@
 
 [<img align="left" width="390" alt="🦑" src="https://github.com/Srivathsav-max/Srivathsav-max/blob/main/achievements.svg">](#)
 
-[<img width="left" width="390" alt="🦑" src="https://github.com/Srivathsav-max/Srivathsav-max/blob/main/metrics.plugin.languages.indepth.svg">](#)
+<!-- [<img width="left" width="390" alt="🦑" src="https://github.com/Srivathsav-max/Srivathsav-max/blob/main/metrics.plugin.languages.indepth.svg">](#) -->
