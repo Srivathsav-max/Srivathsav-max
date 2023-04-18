@@ -5,7 +5,7 @@
 
 [<img align="left" width="390" alt="🦑" src="https://github.com/Srivathsav-max/Srivathsav-max/blob/main/metrics.plugin.people.followers.svg">](#)
 
-[<img align="right" width="390" alt="🦑" src="https://github.com/Srivathsav-max/Srivathsav-max/blob/main/metrics.plugin.stars.svg">](#)
+[<img align="left" width="390" alt="🦑" src="https://github.com/Srivathsav-max/Srivathsav-max/blob/main/metrics.plugin.stars.svg">](#)
 
 [<img align="left" width="390" alt="🦑" src="https://github.com/Srivathsav-max/Srivathsav-max/blob/main/achievements.svg">](#)
 
