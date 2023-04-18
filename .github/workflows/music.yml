@@ -12,7 +12,7 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Spotify - Recently listed
+      - name: 🎶 Spotify - Recently listed
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.music.recent.svg

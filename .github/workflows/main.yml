@@ -89,7 +89,7 @@ jobs:
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
 
-      - name: Spotify - Random track from playlist
+      - name: 🎶 Spotify - Random track from playlist
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.music.playlist.spotify.svg

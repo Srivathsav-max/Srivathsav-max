@@ -12,7 +12,7 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Indepth analysis
+      - name: 🎶 Indepth analysis
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.languages.indepth.svg
