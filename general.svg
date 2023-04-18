@@ -1108,14 +1108,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 27mb of code in 3723 edited files across 98 commits</small>
+                <small>estimation from 27mb of code in 3736 edited files across 108 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="459.81871707186843" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.81871707186843" y="0" width="0.18128292813154362" height="8" fill="#3B2F63"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="362.42236682765395" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="362.42236682765395" y="0" width="97.57763317234607" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1129,20 +1129,20 @@
                             <small>
                                 <div>4.64k lines</div>
                                 <div>550 kB</div>
-                                <div>99.96%</div>
+                                <div>78.79%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3B2F63" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Procfile
+                                CSS
                             </div>
                             <small>
-                                <div>6 lines</div>
-                                <div>217 bytes</div>
-                                <div>0.04%</div>
+                                <div>8.33k lines</div>
+                                <div>148 kB</div>
+                                <div>21.21%</div>
                             </small>
                         </div>
                     </section>
