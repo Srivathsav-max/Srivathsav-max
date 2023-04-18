@@ -4,6 +4,6 @@
 
 [<img align="right" width="390" alt="🦑" src="https://github.com/Srivathsav-max/Srivathsav-max/blob/main/metrics.plugin.activity.svg">](#)
 
-[<img width="100%" height="1" alt="🦑" src="https://github.com/Srivathsav-max/Srivathsav-max/blob/main/metrics.plugin.activity.svg">](#)
+[<img align="bottom" width="390" alt="🦑" src="https://github.com/Srivathsav-max/Srivathsav-max/blob/main/metrics.plugin.stars.svg">](#)
 
 
