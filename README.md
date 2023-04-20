@@ -1,3 +1,5 @@
+[![Code Analytics](https://github.com/Srivathsav-max/Srivathsav-max/actions/workflows/lang_stats.yml/badge.svg)](https://github.com/Srivathsav-max/Srivathsav-max/actions/workflows/lang_stats.yml)
+
 [<img align="left" width="390" alt="🎶" src="https://github.com/Srivathsav-max/Srivathsav-max/blob/main/general.svg">](#)
 
 [<img align="left" width="390" alt="🎶" src="https://github.com/Srivathsav-max/Srivathsav-max/blob/main/metrics.plugin.people.followers.svg">](#)
