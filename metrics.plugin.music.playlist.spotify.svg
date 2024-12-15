@@ -25,22 +25,15 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Ghal Ghal</div>
-                                    <div class="artist">S. P. Balasubrahmanyam</div>
+                                    <div class="name">Bommanu Geesthey</div>
+                                    <div class="artist">Jeans Srinivas, Gopika Poornima</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Yedetthu Mallele</div>
-                                    <div class="artist">Kala Bhairava, Nikhita Gandhi</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Hoyna</div>
-                                    <div class="artist">Karthik, K. S. Chithra</div>
+                                    <div class="name">Meghaalu Lekunna</div>
+                                    <div class="artist">Yazin Nizar</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -48,6 +41,13 @@
                                 <div class="infos">
                                     <div class="name">Pedhavi Daatani</div>
                                     <div class="artist">Ramana Gogula, Sunitha</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Nenu Nenuga</div>
+                                    <div class="artist">S.P. Charan</div>
                                 </div>
                             </div>
                         </div>
