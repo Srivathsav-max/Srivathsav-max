@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#2 Appwrite</span>
+                                        <span class="issue">#4 User auth</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">Srivathsav-max/audiorecorder</span></div>
-                                    <div>26 files changed <span class="code">++1014 --999</span></div>
+                                    <div>71 files changed <span class="code">++7517 --342</span></div>
                                 </div>
                             </section>
                         </div>
@@ -40,12 +40,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#2 Appwrite</span>
+                                        <span class="issue">#4 User auth</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">Srivathsav-max/audiorecorder</span></div>
-                                    <div>26 files changed <span class="code">++1014 --999</span></div>
+                                    <div>71 files changed <span class="code">++7226 --336</span></div>
                                 </div>
                             </section>
                         </div>
@@ -58,7 +58,7 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">appwrite</span>
+                                        <span class="code">user-auth</span>
                                         in
                                         <span class="repo">Srivathsav-max/audiorecorder</span>
                                     </div>
@@ -73,12 +73,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#1 UI V2</span>
+                                        <span class="issue">#3 network stabilizing helpers</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">Srivathsav-max/audiorecorder</span></div>
-                                    <div>10 files changed <span class="code">++947 --136</span></div>
+                                    <div>8 files changed <span class="code">++534 --4</span></div>
                                 </div>
                             </section>
                         </div>
@@ -90,12 +90,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#1 UI V2</span>
+                                        <span class="issue">#3 network stabilizing helpers</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">Srivathsav-max/audiorecorder</span></div>
-                                    <div>10 files changed <span class="code">++947 --136</span></div>
+                                    <div>8 files changed <span class="code">++534 --4</span></div>
                                 </div>
                             </section>
                         </div>
