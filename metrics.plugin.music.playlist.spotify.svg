@@ -25,22 +25,15 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Chiru Chiru</div>
-                                    <div class="artist">Yuvan Shankar Raja, Haricharan, Sagar Desai, Chandra Bose</div>
+                                    <div class="name">Sutiga Choodaku</div>
+                                    <div class="artist">Hariharan, Saindhavi</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Ghal Ghal</div>
-                                    <div class="artist">S. P. Balasubrahmanyam</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Oka Thotalo</div>
-                                    <div class="artist">S.P. Charan, Malavika</div>
+                                    <div class="name">Mellaga</div>
+                                    <div class="artist">S.P. Charan, Sumangaly</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -48,6 +41,13 @@
                                 <div class="infos">
                                     <div class="name">Alloneredu Kalla</div>
                                     <div class="artist">Partha Sarathy, Chitra</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Manasanta Nuvve</div>
+                                    <div class="artist">S.P. Charan, Sujatha</div>
                                 </div>
                             </div>
                         </div>
