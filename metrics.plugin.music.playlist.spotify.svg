@@ -25,15 +25,15 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name"></div>
-                                    <div class="artist"></div>
+                                    <div class="name">Mila Mila</div>
+                                    <div class="artist">Karthik</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Yedho</div>
-                                    <div class="artist">Yuvan Shankar Raja, S.P. Charan, Vennelakanti</div>
+                                    <div class="name">Saami Saami (From "Pushpa - The Rise")(Telugu)</div>
+                                    <div class="artist">Devi Sri Prasad, Mounika Yadav, Chandra Bose</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -46,8 +46,8 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Yetu Pone</div>
-                                    <div class="artist">Kala Bhairava, Justin Prabhakaran, KK</div>
+                                    <div class="name">Ghal Ghal</div>
+                                    <div class="artist">S. P. Balasubrahmanyam</div>
                                 </div>
                             </div>
                         </div>
