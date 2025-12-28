@@ -25,15 +25,22 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Bommanu Geesthey</div>
-                                    <div class="artist">Jeans Srinivas, Gopika Poornima</div>
+                                    <div class="name">Chiru Chiru</div>
+                                    <div class="artist">Yuvan Shankar Raja, Haricharan, Sagar Desai, Chandra Bose</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Sutiga Choodaku</div>
-                                    <div class="artist">Hariharan, Saindhavi</div>
+                                    <div class="name">Aadinchi Ashta Chamma</div>
+                                    <div class="artist">Sri Krishna</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Ghal Ghal</div>
+                                    <div class="artist">S. P. Balasubrahmanyam</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -41,13 +48,6 @@
                                 <div class="infos">
                                     <div class="name">Chinnaga Chinnaga</div>
                                     <div class="artist">Hariharan, K. S. Chithra</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Apudo Ipudo</div>
-                                    <div class="artist">Siddharth</div>
                                 </div>
                             </div>
                         </div>
